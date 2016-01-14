@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppBasics</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="users_name_edit_text">Su Nombre</string>
+    <string name="happy_question">Eres Feliz?</string>
+    <string name="answer_yes_button">Si</string>
+    <string name="answer_no_button">No</string>
+    <string name="happy_question_hint_yes">llevarnos</string>
+    <string name="happy_question_hint_no">No, me recogiera</string>
+</resources>
